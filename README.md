@@ -14,6 +14,10 @@
   💡Curious about systems, problem-solving, and real-world applications, I am always improving my coding skills through hands-on projects.
 </p>
 
+<h2 align="center">📂My Project Links:</h2>
+
+<p align="center">🔗https://courageous-naiad-e216a3.netlify.app/</p>
+
 <h2 align="center">Tech Stack: 💻</h2>
 
 <br>
