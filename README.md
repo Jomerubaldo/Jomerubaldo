@@ -17,6 +17,7 @@
 <h2 align="center">📂My Project Links:</h2>
 
 <p align="center">🔗https://courageous-naiad-e216a3.netlify.app/</p>
+<p align="center">🔗https://notes-app-jomer-ubaldo.netlify.app/</p>
 <p align="center">🔗https://stately-churros-fa303a.netlify.app/</p>
 
 <h2 align="center">Tech Stack: 💻</h2>
