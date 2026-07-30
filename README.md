@@ -34,7 +34,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Jomerubaldo&theme=transparent&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="48%" alt="GitHub Stats" style="display:inline-block;"/>
-  <img src="https://nirzak-streak-stats.vercel.app?user=Jomerubaldo&theme=transparent&hide_border=true" width="48%" alt="GitHub Streak Stats" style="display:inline-block;"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=Jomerubaldo&theme=transparent&hide_border=true" width="48%" alt="GitHub Streak Stats" style="display:inline-block;"/>
 </div>
 
 <p align="center">
