@@ -7,11 +7,7 @@
 </p>
 
 <p align="center">
-  - An aspiring developer and undergraduate student passionate about tech and how systems work. Constantly learning and building projects using JavaScript, ReactJS, ExpressJS, NodeJS, MySQL and modern web technologies.
-</p>
-
-<p align="center">
-  - Curious about systems, problem-solving, and real-world applications, I am always improving my coding skills through hands-on projects.
+Aspiring web developer and undergraduate student passionate about building real-world applications with JavaScript, ReactJS, ExpressJS, NodeJS, and MySQL. Always learning through hands-on projects.
 </p>
 
 <h2 align="center">📂My Project Links:</h2>
