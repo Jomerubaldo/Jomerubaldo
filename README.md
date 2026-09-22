@@ -4,17 +4,6 @@
   </a>
 </h1>
 
-<p align="center">
-Aspiring web developer and undergraduate student passionate about building real-world applications with JavaScript, ReactJS, ExpressJS, NodeJS, and MySQL. Always learning through hands-on projects.
-</p>
-
-<h2 align="center">📂My Project Links:</h2>
-
-<p align="center">🔗https://courageous-naiad-e216a3.netlify.app/</p>
-<p align="center">🔗https://notes-app-jomer-ubaldo.netlify.app/</p>
-<p align="center">🔗https://stately-churros-fa303a.netlify.app/</p>
-<p align="center">🔗https://jomerubaldo.github.io/Portfolio/</p>
-
 <h2 align="center">Languages/Tools: 💻🛠️</h2>
 
 <br>
