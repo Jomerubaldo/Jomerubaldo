@@ -17,7 +17,7 @@ Aspiring web developer and undergraduate student passionate about building real-
 <p align="center">🔗https://stately-churros-fa303a.netlify.app/</p>
 <p align="center">🔗https://jomerubaldo.github.io/Portfolio/</p>
 
-<h2 align="center">Tech Stack/Tools: 💻🛠️</h2>
+<h2 align="center">Languages/Tools: 💻🛠️</h2>
 
 <br>
 
