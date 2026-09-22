@@ -9,9 +9,7 @@
 <br>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,html,css,tailwind,bootstrap,js,express,react,nodejs,vite,ts,mysql,sqlite,php,laravel,postman,github,git,npm,notion" />
-  </a>
+   <img src="https://skillicons.dev/icons?i=vscode,html,css,tailwind,bootstrap,js,express,react,nodejs,vite,ts,mysql,sqlite,php,laravel,postman,github,git,npm,notion" />
 </p>
 
 <br>
