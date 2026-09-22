@@ -1,10 +1,8 @@
-<h1 align="center">Hi! I'm Jomer</h1>
-
-<p align="center">
+<h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=007BFF&center=true&vCenter=true&width=500&lines=Software+Developer;Web+Developer;Software+Engineer;Full+Stack+Developer" width="500" alt="Typing SVG" />
   </a>
-</p>
+</h1>
 
 <p align="center">
 Aspiring web developer and undergraduate student passionate about building real-world applications with JavaScript, ReactJS, ExpressJS, NodeJS, and MySQL. Always learning through hands-on projects.
